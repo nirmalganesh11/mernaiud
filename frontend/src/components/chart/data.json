@@ -1,0 +1,217 @@
+{
+    "items": [
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 40000,
+            "name": "KL"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 30000,
+            "name": "VVIT"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 5000,
+            "name": "PARUL"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 35000,
+            "name": "LPU"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 10000,
+            "name": "IIT Madras"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 4500,
+            "name": "KHIT"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 67000,
+            "name": "SRM"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 34000,
+            "name": "VIT"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 3500,
+            "name": "IIT Roorke"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 5700,
+            "name": "IIT Thirichi"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 6733,
+            "name": "AMITy"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 640,
+            "name": "IIT HYD"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 6945,
+            "name": "Polareddy"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 466,
+            "name": "NIT warrangal"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 439,
+            "name": "KITS"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 408,
+            "name": "Manipal"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 394,
+            "name": "Kalasilinga"
+        },
+        {
+            "has_synonyms": false,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 3835,
+            "name": "Bharath University"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 2000,
+            "name": "Bangalore University"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 8000,
+            "name": "CEPT"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 3334,
+            "name": "DIT University"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 4000,
+            "name": "AKS University"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 3218,
+            "name": "Arni University"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 3209,
+            "name": "Auro University"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 3174,
+            "name": "XLRI"
+        },
+        {
+            "has_synonyms": false,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 2957,
+            "name": "VIT Vellore"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 5000,
+            "name": "JadavPur University"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 28234,
+            "name": "NLU Delhi"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 2674,
+            "name": "CEG"
+        },
+        {
+            "has_synonyms": true,
+            "is_moderator_only": false,
+            "is_required": false,
+            "count": 30000,
+            "name": "Nagarjuna University"
+        }
+    ],
+    "has_more": true,
+    "quota_max": 300,
+    "quota_remaining": 277
+}

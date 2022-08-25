@@ -1,0 +1,1776 @@
+[
+    {
+      "year": 2004,
+      "make": "Acura",
+      "model": "RSX",
+      "vin": "JH4DC54824S011595",
+      "color": "Blue",
+      "miles": 125659,
+      "date": ""
+    },
+    {
+      "year": 2002,
+      "make": "Acura",
+      "model": "TL",
+      "vin": "19UUA56862A000348",
+      "color": "Off White",
+      "miles": 149263,
+      "date": "6/1/2019"
+    },
+    {
+      "year": 2004,
+      "make": "Acura",
+      "model": "TL",
+      "vin": "19UUA66274A045013",
+      "color": "Green",
+      "miles": 112070,
+      "date": "4/4/2019"
+    },
+    {
+      "year": 2006,
+      "make": "Acura",
+      "model": "TSX",
+      "vin": "JH4CL96896C022722",
+      "color": "Blue",
+      "miles": 1,
+      "date": "5/27/2018"
+    },
+    {
+      "year": 1998,
+      "make": "Audi",
+      "model": "A4",
+      "vin": "WAUED28D1WA267127",
+      "color": "Tan",
+      "miles": 89380,
+      "date": "5/8/2010"
+    },
+    {
+      "year": 2001,
+      "make": "Audi",
+      "model": "A6",
+      "vin": "WAUED64B11N163315",
+      "color": "Tan",
+      "miles": 98028,
+      "date": ""
+    },
+    {
+      "year": 2007,
+      "make": "Audi",
+      "model": "A8",
+      "vin": "WAULV44E67N004267",
+      "color": "Black",
+      "miles": 128372,
+      "date": "9/10/2014"
+    },
+    {
+      "year": 2004,
+      "make": "Audi",
+      "model": "A8 L",
+      "vin": "WAUML44E44N019694",
+      "color": "Champagne",
+      "miles": 114315,
+      "date": "5/10/2019"
+    },
+    {
+      "year": 2001,
+      "make": "Audi",
+      "model": "S4",
+      "vin": "WAURD68D61A131688",
+      "color": "Blue",
+      "miles": 159700,
+      "date": "11/13/2015"
+    },
+    {
+      "year": 2005,
+      "make": "Audi",
+      "model": "TT",
+      "vin": "TRUTC28N251008110",
+      "color": "Orange",
+      "miles": 96461,
+      "date": "3/18/2018"
+    },
+    {
+      "year": 2005,
+      "make": "Bentley",
+      "model": "Continental",
+      "vin": "SCBCR63W75C027937",
+      "color": "Blue",
+      "miles": 63251,
+      "date": "4/28/2020"
+    },
+    {
+      "year": 2000,
+      "make": "BMW",
+      "model": "3 Series",
+      "vin": "WBAAM3341YKC68712",
+      "color": "Black",
+      "miles": 116479,
+      "date": "6/8/2020"
+    },
+    {
+      "year": 2003,
+      "make": "BMW",
+      "model": "3 Series",
+      "vin": "WBAEW53443PG22354",
+      "color": "Black",
+      "miles": 110977,
+      "date": "1/7/2018"
+    },
+    {
+      "year": 2003,
+      "make": "BMW",
+      "model": "3 Series",
+      "vin": "WBAEU33443PM53394",
+      "color": "Green",
+      "miles": 116519,
+      "date": "3/19/2019"
+    },
+    {
+      "year": 2005,
+      "make": "BMW",
+      "model": "3 Series",
+      "vin": "wbaeu33435pr15589",
+      "color": "Silver",
+      "miles": 125316,
+      "date": "11/16/2017"
+    },
+    {
+      "year": 2007,
+      "make": "BMW",
+      "model": "3 Series",
+      "vin": "WBAVC73597KP30496",
+      "color": "Gray",
+      "miles": 115077,
+      "date": "3/24/2019"
+    },
+    {
+      "year": 2008,
+      "make": "BMW",
+      "model": "3 Series",
+      "vin": "WBAVC73548KX92356",
+      "color": "Silver",
+      "miles": 74353,
+      "date": "6/15/2018"
+    },
+    {
+      "year": 2010,
+      "make": "BMW",
+      "model": "3 Series",
+      "vin": "WBAWL7C58AP252294",
+      "color": "Blue",
+      "miles": 96310,
+      "date": "7/3/2020"
+    },
+    {
+      "year": 1997,
+      "make": "BMW",
+      "model": "5 Series",
+      "vin": "WBADD6328VBW14194",
+      "color": "White",
+      "miles": 212961,
+      "date": "7/16/2018"
+    },
+    {
+      "year": 1997,
+      "make": "BMW",
+      "model": "5 Series",
+      "vin": "WBADD6329VBW29755",
+      "color": "Silver",
+      "miles": 205326,
+      "date": "6/2/2020"
+    },
+    {
+      "year": 2002,
+      "make": "BMW",
+      "model": "5 Series",
+      "vin": "WBADT63402CH94249",
+      "color": "Black",
+      "miles": 119371,
+      "date": ""
+    },
+    {
+      "year": 2002,
+      "make": "BMW",
+      "model": "5 Series",
+      "vin": "WBADT43492GZ97019",
+      "color": "Black",
+      "miles": 175103,
+      "date": "4/19/2017"
+    },
+    {
+      "year": 2003,
+      "make": "BMW",
+      "model": "5 Series",
+      "vin": "WBADT53423CE95311",
+      "color": "Black",
+      "miles": 127525,
+      "date": "6/13/2020"
+    },
+    {
+      "year": 2007,
+      "make": "BMW",
+      "model": "5 Series",
+      "vin": "WBANF73527CU26962",
+      "color": "Silver",
+      "miles": 158459,
+      "date": "1/29/2016"
+    },
+    {
+      "year": 1995,
+      "make": "BMW",
+      "model": "7 Series",
+      "vin": "WBAGF6321SDH06581",
+      "color": "Green",
+      "miles": 203223,
+      "date": "7/9/2017"
+    },
+    {
+      "year": 2001,
+      "make": "BMW",
+      "model": "7 Series",
+      "vin": "WBAGH83481DP19993",
+      "color": "Gray",
+      "miles": 265363,
+      "date": "3/10/2018"
+    },
+    {
+      "year": 2004,
+      "make": "BMW",
+      "model": "7 Series",
+      "vin": "WBAGL63424DP70834",
+      "color": "White",
+      "miles": 91209,
+      "date": "7/2/2017"
+    },
+    {
+      "year": 2006,
+      "make": "BMW",
+      "model": "M5",
+      "vin": "WBSNB93596B583217",
+      "color": "Black",
+      "miles": 96870,
+      "date": "6/26/2018"
+    },
+    {
+      "year": 2009,
+      "make": "BMW",
+      "model": "X3",
+      "vin": "WBXPC93449WJ26206",
+      "color": "Silver",
+      "miles": 134368,
+      "date": "5/5/2020"
+    },
+    {
+      "year": 2011,
+      "make": "BMW",
+      "model": "X5",
+      "vin": "5UXZW0C53BL371263",
+      "color": "Black",
+      "miles": 101961,
+      "date": "12/22/2019"
+    },
+    {
+      "year": 2007,
+      "make": "Cadillac",
+      "model": "CTS",
+      "vin": "1G6DP577670174522",
+      "color": "Charcoal",
+      "miles": 92655,
+      "date": "5/10/2020"
+    },
+    {
+      "year": 2007,
+      "make": "Cadillac",
+      "model": "CTS",
+      "vin": "1G6DM57T770168332",
+      "color": "Black",
+      "miles": 79865,
+      "date": "3/12/2018"
+    },
+    {
+      "year": 2009,
+      "make": "Cadillac",
+      "model": "CTS",
+      "vin": "1G6DG577090142152",
+      "color": "Silver",
+      "miles": 96849,
+      "date": "1/12/2019"
+    },
+    {
+      "year": 2004,
+      "make": "Cadillac",
+      "model": "DeVille",
+      "vin": "1G6KD54YX4U109495",
+      "color": "Brown",
+      "miles": 116468,
+      "date": "7/7/2019"
+    },
+    {
+      "year": 2005,
+      "make": "Cadillac",
+      "model": "STS",
+      "vin": "1G6DC67A150189522",
+      "color": "Burgundy",
+      "miles": 91837,
+      "date": "6/27/2019"
+    },
+    {
+      "year": 2004,
+      "make": "Chevrolet",
+      "model": "Aveo",
+      "vin": "KL1TJ62674B233079",
+      "color": "Orange",
+      "miles": 134226,
+      "date": "11/9/2016"
+    },
+    {
+      "year": 2005,
+      "make": "Chevrolet",
+      "model": "Cavalier",
+      "vin": "1G1JC12F657135705",
+      "color": "Blue",
+      "miles": 195432,
+      "date": "12/1/2017"
+    },
+    {
+      "year": 2006,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "vin": "1G1ZS51F46F153304",
+      "color": "Blue",
+      "miles": 105906,
+      "date": "7/10/2019"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "vin": "1G11D5SL9FF324222",
+      "color": "Charcoal",
+      "miles": 60194,
+      "date": "8/23/2019"
+    },
+    {
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Sonic",
+      "vin": "1G1JH6SB8F4136577",
+      "color": "Gray",
+      "miles": 50590,
+      "date": ""
+    },
+    {
+      "year": 2003,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "vin": "1GNEK13Z83J293782",
+      "color": "Blue",
+      "miles": 38510,
+      "date": ""
+    },
+    {
+      "year": 2006,
+      "make": "Chrysler",
+      "model": 300,
+      "vin": "2C3KA63H76H531439",
+      "color": "Silver",
+      "miles": 122114,
+      "date": "5/22/2019"
+    },
+    {
+      "year": 2007,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "vin": "2A8GF48X67R213954",
+      "color": "Blue",
+      "miles": 88495,
+      "date": "3/7/2019"
+    },
+    {
+      "year": 2008,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "vin": "2A8GF68X38R144119",
+      "color": "Blue",
+      "miles": 103846,
+      "date": "5/10/2020"
+    },
+    {
+      "year": 2007,
+      "make": "Chrysler",
+      "model": "PT Cruiser",
+      "vin": "3A4FY48B97T614780",
+      "color": "Red",
+      "miles": 104527,
+      "date": "6/13/2017"
+    },
+    {
+      "year": 2002,
+      "make": "Chrysler",
+      "model": "Sebring",
+      "vin": "4C3AG42HX2E067563",
+      "color": "Tan",
+      "miles": 144243,
+      "date": "7/16/2016"
+    },
+    {
+      "year": 2007,
+      "make": "Dodge",
+      "model": "Charger",
+      "vin": "2B3KA43H07H771466",
+      "color": "Black",
+      "miles": 127455,
+      "date": ""
+    },
+    {
+      "year": 2007,
+      "make": "Dodge",
+      "model": "Charger",
+      "vin": "2B3KA43H17H771461",
+      "color": "Black",
+      "miles": 84960,
+      "date": ""
+    },
+    {
+      "year": 2014,
+      "make": "Dodge",
+      "model": "Charger",
+      "vin": "2C3CDXHG6EH343902",
+      "color": "Black",
+      "miles": 51260,
+      "date": "12/1/2018"
+    },
+    {
+      "year": 1999,
+      "make": "Dodge",
+      "model": "Dakota",
+      "vin": "1B7GL22Y1XS277615",
+      "color": "Gray",
+      "miles": 192450,
+      "date": "5/5/2017"
+    },
+    {
+      "year": 2003,
+      "make": "Dodge",
+      "model": "Dakota",
+      "vin": "1D7HG48NX3S141842",
+      "color": "Gray",
+      "miles": 179917,
+      "date": "9/14/2018"
+    },
+    {
+      "year": 2004,
+      "make": "Dodge",
+      "model": "Dakota",
+      "vin": "1D7HG38K34S574078",
+      "color": "Red",
+      "miles": 128805,
+      "date": "8/31/2012"
+    },
+    {
+      "year": 2005,
+      "make": "Dodge",
+      "model": "Dakota",
+      "vin": "1D7HW22K55S161747",
+      "color": "White",
+      "miles": 105435,
+      "date": "12/26/2017"
+    },
+    {
+      "year": 2002,
+      "make": "Dodge",
+      "model": "Durango",
+      "vin": "1B4HS48N62F143939",
+      "color": "Red",
+      "miles": 80633,
+      "date": "4/2/2014"
+    },
+    {
+      "year": 2003,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "vin": "1d8gp24r63b326930",
+      "color": "Green",
+      "miles": 141533,
+      "date": "3/11/2016"
+    },
+    {
+      "year": 2006,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "vin": "1D4GP24R46B735403",
+      "color": "Black",
+      "miles": 200000,
+      "date": "3/21/2018"
+    },
+    {
+      "year": 2007,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "vin": "2D4GP44L67R117557",
+      "color": "Blue",
+      "miles": 138200,
+      "date": "1/2/2017"
+    },
+    {
+      "year": 2003,
+      "make": "Dodge",
+      "model": "Ram Pickup 1500",
+      "vin": "1D7HU18N83J534722",
+      "color": "Gray",
+      "miles": 149455,
+      "date": "7/16/2017"
+    },
+    {
+      "year": 2002,
+      "make": "Dodge",
+      "model": "Ram Pickup 2500",
+      "vin": "3B7KF26Z32M261311",
+      "color": "Blue",
+      "miles": 81057,
+      "date": ""
+    },
+    {
+      "year": 2009,
+      "make": "Dodge",
+      "model": "Ram Pickup 2500",
+      "vin": "3D7KS26L79G538600",
+      "color": "Blue",
+      "miles": 121970,
+      "date": "11/21/2018"
+    },
+    {
+      "year": 2000,
+      "make": "Dodge",
+      "model": "Ram Pickup 3500",
+      "vin": "1B7MF3350YJ148742",
+      "color": "Black",
+      "miles": 124827,
+      "date": ""
+    },
+    {
+      "year": 2005,
+      "make": "Dodge",
+      "model": "Sprinter Cargo",
+      "vin": "WD2PD744655735065",
+      "color": "Blue",
+      "miles": 158153,
+      "date": ""
+    },
+    {
+      "year": 2010,
+      "make": "Ford",
+      "model": "Crown Victoria",
+      "vin": "2FABP7BV1AX130514",
+      "color": "White",
+      "miles": 100000,
+      "date": ""
+    },
+    {
+      "year": 2008,
+      "make": "Ford",
+      "model": "Edge",
+      "vin": "2FMDK49C08BA28158",
+      "color": "Maroon",
+      "miles": 84151,
+      "date": ""
+    },
+    {
+      "year": 2008,
+      "make": "Ford",
+      "model": "Escape Hybrid",
+      "vin": "1FMCU59H28KA94661",
+      "color": "Blue",
+      "miles": 94899,
+      "date": ""
+    },
+    {
+      "year": 1997,
+      "make": "Ford",
+      "model": "Expedition",
+      "vin": "1FMEU18W7VLC17653",
+      "color": "White",
+      "miles": 138572,
+      "date": "1/29/2018"
+    },
+    {
+      "year": 1999,
+      "make": "Ford",
+      "model": "Expedition",
+      "vin": "1FMRU1864XLC24077",
+      "color": "White",
+      "miles": 182212,
+      "date": ""
+    },
+    {
+      "year": 1999,
+      "make": "Ford",
+      "model": "Explorer",
+      "vin": "1fmyu24e9xua55814",
+      "color": "Red",
+      "miles": 199315,
+      "date": "2/19/2017"
+    },
+    {
+      "year": 2011,
+      "make": "Ford",
+      "model": "Explorer",
+      "vin": "1FMHK8F82BGA16814",
+      "color": "Burgundy",
+      "miles": 123587,
+      "date": "6/9/2020"
+    },
+    {
+      "year": 2001,
+      "make": "Ford",
+      "model": "Explorer Sport",
+      "vin": "1FMYU60E21UC87725",
+      "color": "Tan",
+      "miles": 85799,
+      "date": "6/26/2020"
+    },
+    {
+      "year": 2007,
+      "make": "Ford",
+      "model": "Explorer Sport Trac",
+      "vin": "1FMEU51K97UA08118",
+      "color": "Blue",
+      "miles": 108115,
+      "date": ""
+    },
+    {
+      "year": 2001,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": "1FTRW07W71KF83902",
+      "color": "Blue",
+      "miles": 99551,
+      "date": ""
+    },
+    {
+      "year": 2003,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": "1FTRW08LX3KA27705",
+      "color": "Pewter",
+      "miles": 43472,
+      "date": "4/28/2020"
+    },
+    {
+      "year": 2005,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": "1FTPW14595KC98696",
+      "color": "Green",
+      "miles": 117778,
+      "date": ""
+    },
+    {
+      "year": 2007,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": "1FTPX14V07FA67226",
+      "color": "Gray",
+      "miles": 150586,
+      "date": "12/13/2018"
+    },
+    {
+      "year": 2002,
+      "make": "Ford",
+      "model": "F-250 Super Duty",
+      "vin": "1FTNW21L12EB76618",
+      "color": "Green",
+      "miles": 146598,
+      "date": "10/28/2019"
+    },
+    {
+      "year": 2003,
+      "make": "Ford",
+      "model": "F-250 Super Duty",
+      "vin": "1FTNF21P43EC40199",
+      "color": "Gray",
+      "miles": 170727,
+      "date": ""
+    },
+    {
+      "year": 2004,
+      "make": "Ford",
+      "model": "F-250 Super Duty",
+      "vin": "1FTNX21L74EC16832",
+      "color": "White",
+      "miles": 110473,
+      "date": "6/3/2018"
+    },
+    {
+      "year": 2005,
+      "make": "Ford",
+      "model": "F-250 Super Duty",
+      "vin": "1FTSX21P75EB06757",
+      "color": "Burgundy",
+      "miles": 99856,
+      "date": "9/8/2019"
+    },
+    {
+      "year": 1999,
+      "make": "Ford",
+      "model": "F-350 Super Duty",
+      "vin": "1FDWF36S4XED98759",
+      "color": "White",
+      "miles": 182689,
+      "date": ""
+    },
+    {
+      "year": 2002,
+      "make": "Ford",
+      "model": "F-350 Super Duty",
+      "vin": "1FTSX31F52EB18334",
+      "color": "Blue",
+      "miles": 92769,
+      "date": "6/17/2018"
+    },
+    {
+      "year": 2003,
+      "make": "Ford",
+      "model": "F-350 Super Duty",
+      "vin": "1FTSX31S03EC32529",
+      "color": "Gray",
+      "miles": 101769,
+      "date": ""
+    },
+    {
+      "year": 2004,
+      "make": "Ford",
+      "model": "F-350 Super Duty",
+      "vin": "1FTSW31P44EC50631",
+      "color": "White",
+      "miles": 127329,
+      "date": ""
+    },
+    {
+      "year": 2006,
+      "make": "Ford",
+      "model": "F-350 Super Duty",
+      "vin": "1FTWW31P66ED24099",
+      "color": "Black",
+      "miles": 159940,
+      "date": ""
+    },
+    {
+      "year": 2004,
+      "make": "Ford",
+      "model": "Focus SVT",
+      "vin": "3FAHP39514R111571",
+      "color": "Red",
+      "miles": 120599,
+      "date": "6/11/2019"
+    },
+    {
+      "year": 2001,
+      "make": "Ford",
+      "model": "Mustang",
+      "vin": "1FAFP40421F109015",
+      "color": "Gray",
+      "miles": 90812,
+      "date": "10/8/2017"
+    },
+    {
+      "year": 2000,
+      "make": "Ford",
+      "model": "Taurus",
+      "vin": "1FAFP55U1YA235484",
+      "color": "Blue",
+      "miles": 157012,
+      "date": "12/8/2014"
+    },
+    {
+      "year": 2004,
+      "make": "Ford",
+      "model": "Taurus",
+      "vin": "1FAFP53U54A129746",
+      "color": "Blue",
+      "miles": 113056,
+      "date": "5/6/2019"
+    },
+    {
+      "year": 2011,
+      "make": "Ford",
+      "model": "Taurus",
+      "vin": "1FAHP2EW2BG105310",
+      "color": "Blue",
+      "miles": 96333,
+      "date": "7/2/2020"
+    },
+    {
+      "year": 1996,
+      "make": "Ford",
+      "model": "Thunderbird",
+      "vin": "1FALP6247TH153322",
+      "color": "Red",
+      "miles": 150222,
+      "date": "9/8/2017"
+    },
+    {
+      "year": 2002,
+      "make": "GMC",
+      "model": "Envoy",
+      "vin": "1GKDT13S622335819",
+      "color": "Maroon",
+      "miles": 122877,
+      "date": ""
+    },
+    {
+      "year": 2001,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "vin": "2GTEK19T511281026",
+      "color": "Maroon",
+      "miles": 199875,
+      "date": "7/9/2019"
+    },
+    {
+      "year": 2004,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "vin": "1GKFK16Z74J333235",
+      "color": "Gray",
+      "miles": 143765,
+      "date": "2/12/2020"
+    },
+    {
+      "year": 1992,
+      "make": "Honda",
+      "model": "Accord",
+      "vin": "1HGCB7656NA201245",
+      "color": "Maroon",
+      "miles": 55423,
+      "date": ""
+    },
+    {
+      "year": 1994,
+      "make": "Honda",
+      "model": "Accord",
+      "vin": "1HGCD7235RA038320",
+      "color": "Tan",
+      "miles": 184723,
+      "date": "1/3/2019"
+    },
+    {
+      "year": 2007,
+      "make": "Honda",
+      "model": "Accord",
+      "vin": "1HGCM55427A149087",
+      "color": "Gray",
+      "miles": 105209,
+      "date": "1/12/2020"
+    },
+    {
+      "year": 2010,
+      "make": "Honda",
+      "model": "Accord",
+      "vin": "1HGCS1B85AA011511",
+      "color": "Black",
+      "miles": 68780,
+      "date": "6/2/2020"
+    },
+    {
+      "year": 1996,
+      "make": "Honda",
+      "model": "Civic",
+      "vin": "2HGEJ6671TH521630",
+      "color": "Gray",
+      "miles": 148193,
+      "date": "3/27/2020"
+    },
+    {
+      "year": 2001,
+      "make": "Honda",
+      "model": "Civic",
+      "vin": "2HGES15541H526818",
+      "color": "Green",
+      "miles": 96195,
+      "date": ""
+    },
+    {
+      "year": 2016,
+      "make": "Honda",
+      "model": "Civic",
+      "vin": "19XFC1F9XGE203783",
+      "color": "White",
+      "miles": 36613,
+      "date": "2/10/2020"
+    },
+    {
+      "year": 1988,
+      "make": "Honda",
+      "model": "Civic CRX",
+      "vin": "JHMED8459JS013087",
+      "color": "White",
+      "miles": 120545,
+      "date": "5/8/2013"
+    },
+    {
+      "year": 2001,
+      "make": "Honda",
+      "model": "CR-V",
+      "vin": "JHLRD17471C039696",
+      "color": "Blue",
+      "miles": 129662,
+      "date": ""
+    },
+    {
+      "year": 2006,
+      "make": "Honda",
+      "model": "Pilot",
+      "vin": "2HKYF18166H525788",
+      "color": "Gray",
+      "miles": 91059,
+      "date": ""
+    },
+    {
+      "year": 2001,
+      "make": "Honda",
+      "model": "Prelude",
+      "vin": "JHMBB62461C004445",
+      "color": "Red",
+      "miles": 132749,
+      "date": "8/14/2016"
+    },
+    {
+      "year": 2008,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "vin": "2HJYK16258H505739",
+      "color": "Green",
+      "miles": 107588,
+      "date": "3/17/2020"
+    },
+    {
+      "year": 2000,
+      "make": "Honda",
+      "model": "Shadow",
+      "vin": "1HFSC1805YA400707",
+      "color": "Red",
+      "miles": 20751,
+      "date": ""
+    },
+    {
+      "year": 2007,
+      "make": "HUMMER",
+      "model": "H3",
+      "vin": "5GTDN13E378111601",
+      "color": "Red",
+      "miles": 111549,
+      "date": "10/5/2019"
+    },
+    {
+      "year": 2002,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "vin": "KMHDN45D52U330410",
+      "color": "Blue",
+      "miles": 139563,
+      "date": "6/27/2017"
+    },
+    {
+      "year": 2000,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "vin": "KMHWF35V6YA290938",
+      "color": "Blue",
+      "miles": 128181,
+      "date": "6/28/2020"
+    },
+    {
+      "year": 2011,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "vin": "5NPEC4AC8BH001772",
+      "color": "Silver",
+      "miles": 65122,
+      "date": "3/22/2017"
+    },
+    {
+      "year": 2007,
+      "make": "Infiniti",
+      "model": "FX35",
+      "vin": "JNRAS08W77X205355",
+      "color": "Blue",
+      "miles": 129378,
+      "date": "4/11/2020"
+    },
+    {
+      "year": 2003,
+      "make": "Infiniti",
+      "model": "G35",
+      "vin": "JNKCV51E63M313992",
+      "color": "Gray",
+      "miles": 116789,
+      "date": ""
+    },
+    {
+      "year": 2005,
+      "make": "Infiniti",
+      "model": "G35",
+      "vin": "JNKCV51F75M315391",
+      "color": "Black",
+      "miles": 206394,
+      "date": "5/2/2019"
+    },
+    {
+      "year": 2005,
+      "make": "Infiniti",
+      "model": "G35",
+      "vin": "JNKCV51F25M309935",
+      "color": "Blue",
+      "miles": 140376,
+      "date": "4/26/2015"
+    },
+    {
+      "year": 2013,
+      "make": "Infiniti",
+      "model": "M37",
+      "vin": "JN1BY1AR1DM600600",
+      "color": "Gray",
+      "miles": 66347,
+      "date": "11/9/2017"
+    },
+    {
+      "year": 2002,
+      "make": "Infiniti",
+      "model": "QX4",
+      "vin": "JNRDR09Y72W256216",
+      "color": "Blue",
+      "miles": 252489,
+      "date": "9/12/2015"
+    },
+    {
+      "year": 1998,
+      "make": "Jaguar",
+      "model": "XK-Series",
+      "vin": "SAJGX2246WC030487",
+      "color": "Black",
+      "miles": 115285,
+      "date": "12/19/2017"
+    },
+    {
+      "year": 2000,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "vin": "1J4GW58N8YC206343",
+      "color": "Gray",
+      "miles": 278000,
+      "date": "7/20/2017"
+    },
+    {
+      "year": 2000,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "vin": "1J4GW48S0YC173886",
+      "color": "Gray",
+      "miles": 132500,
+      "date": "3/2/2019"
+    },
+    {
+      "year": 2004,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "vin": "1J4GW48SX4C257501",
+      "color": "Champagne",
+      "miles": 108096,
+      "date": "4/13/2018"
+    },
+    {
+      "year": 2006,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "vin": "1J4GR48K16C154655",
+      "color": "Maroon",
+      "miles": 127557,
+      "date": "1/27/2020"
+    },
+    {
+      "year": 2006,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "vin": "1J4GR48K26C310461",
+      "color": "Gold",
+      "miles": 84958,
+      "date": "9/22/2019"
+    },
+    {
+      "year": 2006,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "vin": "1J4GR48KX6C354191",
+      "color": "Black",
+      "miles": 125077,
+      "date": ""
+    },
+    {
+      "year": 2006,
+      "make": "Jeep",
+      "model": "Liberty",
+      "vin": "1J4GL58K56W266008",
+      "color": "White",
+      "miles": 114515,
+      "date": "5/22/2020"
+    },
+    {
+      "year": 2007,
+      "make": "Jeep",
+      "model": "Liberty",
+      "vin": "1J4GL48K47W580793",
+      "color": "Black",
+      "miles": 100225,
+      "date": "5/27/2019"
+    },
+    {
+      "year": 2007,
+      "make": "Jeep",
+      "model": "Liberty",
+      "vin": "1J4GL48K27W632857",
+      "color": "Silver",
+      "miles": 133344,
+      "date": ""
+    },
+    {
+      "year": 2010,
+      "make": "Jeep",
+      "model": "Liberty",
+      "vin": "1J4PN2GK6AW149721",
+      "color": "Blue",
+      "miles": 76222,
+      "date": "7/9/2020"
+    },
+    {
+      "year": 2011,
+      "make": "Kia",
+      "model": "Sorento",
+      "vin": "5XYKTDA29BG100599",
+      "color": "Brown",
+      "miles": 82166,
+      "date": ""
+    },
+    {
+      "year": 2002,
+      "make": "Lexus",
+      "model": "GS 300",
+      "vin": "JT8BD69S820164120",
+      "color": "Gray",
+      "miles": 141735,
+      "date": "2/23/2018"
+    },
+    {
+      "year": 2009,
+      "make": "Lexus",
+      "model": "IS 250",
+      "vin": "JTHCK262695030131",
+      "color": "Black",
+      "miles": 115355,
+      "date": "12/9/2017"
+    },
+    {
+      "year": 2002,
+      "make": "Lexus",
+      "model": "IS 300",
+      "vin": "JTHBD192X20050929",
+      "color": "Blue",
+      "miles": 114642,
+      "date": "10/20/2019"
+    },
+    {
+      "year": 2004,
+      "make": "Lexus",
+      "model": "IS 300",
+      "vin": "JTHBD192940084878",
+      "color": "Blue",
+      "miles": 151783,
+      "date": "6/29/2017"
+    },
+    {
+      "year": 2005,
+      "make": "Lexus",
+      "model": "IS 300",
+      "vin": "JTHBD192450098611",
+      "color": "Red",
+      "miles": 127506,
+      "date": "6/2/2020"
+    },
+    {
+      "year": 2004,
+      "make": "Lexus",
+      "model": "RX 330",
+      "vin": "2T2HA31U74C003388",
+      "color": "Gray",
+      "miles": 108079,
+      "date": "8/11/2019"
+    },
+    {
+      "year": 2001,
+      "make": "Lincoln",
+      "model": "LS",
+      "vin": "1LNHM86S61Y660203",
+      "color": "White",
+      "miles": 92654,
+      "date": "1/23/2019"
+    },
+    {
+      "year": 2005,
+      "make": "Mazda",
+      "model": "RX-8",
+      "vin": "JM1FE173350141511",
+      "color": "Titanium",
+      "miles": 70065,
+      "date": "5/12/2018"
+    },
+    {
+      "year": 2005,
+      "make": "Mazda",
+      "model": "Tribute",
+      "vin": "4F2YZ02Z35KM41315",
+      "color": "Blue",
+      "miles": 205373,
+      "date": "4/25/2019"
+    },
+    {
+      "year": 1997,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "vin": "WDBHA23E5VF494779",
+      "color": "Gold",
+      "miles": 203455,
+      "date": "12/22/2016"
+    },
+    {
+      "year": 2006,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "vin": "WDBRF92H36F760778",
+      "color": "Tan",
+      "miles": 54835,
+      "date": ""
+    },
+    {
+      "year": 2007,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "vin": "WDBRF92H57F896329",
+      "color": "Black",
+      "miles": 193082,
+      "date": "4/24/2018"
+    },
+    {
+      "year": 2008,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "vin": "WDDGF81XX8F059398",
+      "color": "Gray",
+      "miles": 117094,
+      "date": "9/14/2019"
+    },
+    {
+      "year": 2009,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "vin": "WDDGF56X49R044418",
+      "color": "Silver",
+      "miles": 94620,
+      "date": ""
+    },
+    {
+      "year": 2005,
+      "make": "Mercedes-Benz",
+      "model": "CL-Class",
+      "vin": "WDBPJ74J75A044391",
+      "color": "White",
+      "miles": 86980,
+      "date": "12/13/2019"
+    },
+    {
+      "year": 2004,
+      "make": "Mercedes-Benz",
+      "model": "CLK",
+      "vin": "WDBTJ75J64F112940",
+      "color": "Black",
+      "miles": 171512,
+      "date": ""
+    },
+    {
+      "year": 2004,
+      "make": "Mercedes-Benz",
+      "model": "CLK",
+      "vin": "WDBTK76G14T010866",
+      "color": "Black",
+      "miles": 103017,
+      "date": "6/12/2019"
+    },
+    {
+      "year": 2008,
+      "make": "Mercedes-Benz",
+      "model": "CLK",
+      "vin": "WDBTK56F38F236200",
+      "color": "Blue",
+      "miles": 100099,
+      "date": "4/19/2019"
+    },
+    {
+      "year": 2008,
+      "make": "Mercedes-Benz",
+      "model": "CLS",
+      "vin": "WDDDJ77X78A123204",
+      "color": "Gray",
+      "miles": 73123,
+      "date": "6/21/2020"
+    },
+    {
+      "year": 1999,
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "vin": "WDBJF70H2XA890294",
+      "color": "Black",
+      "miles": 161566,
+      "date": "10/26/2019"
+    },
+    {
+      "year": 2002,
+      "make": "Mercedes-Benz",
+      "model": "M-Class",
+      "vin": "4JGAB75EX2A337165",
+      "color": "Silver",
+      "miles": 90499,
+      "date": "7/16/2016"
+    },
+    {
+      "year": 2007,
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "vin": "WDDNG71X47A030182",
+      "color": "Gray",
+      "miles": 102690,
+      "date": ""
+    },
+    {
+      "year": 2012,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter Cargo",
+      "vin": "WDYPE8CC3C5720490",
+      "color": "White",
+      "miles": 113856,
+      "date": ""
+    },
+    {
+      "year": 2008,
+      "make": "MINI",
+      "model": "Cooper",
+      "vin": "WMWMF73518TT91912",
+      "color": "Gray",
+      "miles": 108929,
+      "date": ""
+    },
+    {
+      "year": 2005,
+      "make": "Nissan",
+      "model": "350Z",
+      "vin": "JN1AZ36A75M755838",
+      "color": "Gray",
+      "miles": 65451,
+      "date": "7/7/2020"
+    },
+    {
+      "year": 2006,
+      "make": "Nissan",
+      "model": "Altima",
+      "vin": "1N4AL11D96N392948",
+      "color": "Gray",
+      "miles": 153183,
+      "date": "9/25/2018"
+    },
+    {
+      "year": 2009,
+      "make": "Nissan",
+      "model": "Altima",
+      "vin": "1N4BL24E99C119510",
+      "color": "Red",
+      "miles": 53857,
+      "date": "4/11/2020"
+    },
+    {
+      "year": 2013,
+      "make": "Nissan",
+      "model": "Altima",
+      "vin": "1N4AL3AP6DN406517",
+      "color": "Brown",
+      "miles": 78850,
+      "date": ""
+    },
+    {
+      "year": 2009,
+      "make": "Nissan",
+      "model": "Altima Hybrid",
+      "vin": "1N4CL21E99C139622",
+      "color": "Blue",
+      "miles": 107225,
+      "date": "8/25/2019"
+    },
+    {
+      "year": 1996,
+      "make": "Nissan",
+      "model": "Maxima",
+      "vin": "JN1CA21D1TT129670",
+      "color": "Silver",
+      "miles": 69890,
+      "date": ""
+    },
+    {
+      "year": 2000,
+      "make": "Nissan",
+      "model": "Maxima",
+      "vin": "JN1CA31DXYT710081",
+      "color": "Tan",
+      "miles": 79594,
+      "date": "7/26/2019"
+    },
+    {
+      "year": 2003,
+      "make": "Nissan",
+      "model": "Maxima",
+      "vin": "JN1DA31D03T502241",
+      "color": "White",
+      "miles": 76759,
+      "date": "6/2/2020"
+    },
+    {
+      "year": 2003,
+      "make": "Nissan",
+      "model": "Murano",
+      "vin": "JN8AZ08W43W202509",
+      "color": "Orange",
+      "miles": 94989,
+      "date": ""
+    },
+    {
+      "year": 2007,
+      "make": "Nissan",
+      "model": "Murano",
+      "vin": "JN8AZ08W57W602116",
+      "color": "Gold",
+      "miles": 106559,
+      "date": ""
+    },
+    {
+      "year": 2001,
+      "make": "Nissan",
+      "model": "Sentra",
+      "vin": "3N1CB51D81L480480",
+      "color": "Maroon",
+      "miles": 130672,
+      "date": "11/17/2016"
+    },
+    {
+      "year": 2006,
+      "make": "Nissan",
+      "model": "Titan",
+      "vin": "1N6AA07B36N508335",
+      "color": "Green",
+      "miles": 128286,
+      "date": "2/11/2013"
+    },
+    {
+      "year": 2001,
+      "make": "Oldsmobile",
+      "model": "Alero",
+      "vin": "1G3NL12T81C196568",
+      "color": "Blue",
+      "miles": 163027,
+      "date": "4/25/2017"
+    },
+    {
+      "year": 1996,
+      "make": "Oldsmobile",
+      "model": "Ciera",
+      "vin": "1G3AJ55M3T6403157",
+      "color": "Beige",
+      "miles": 121166,
+      "date": "8/27/2017"
+    },
+    {
+      "year": 1997,
+      "make": "Pontiac",
+      "model": "Firebird",
+      "vin": "2G2FV22P7V2232302",
+      "color": "Black",
+      "miles": 92312,
+      "date": ""
+    },
+    {
+      "year": 1999,
+      "make": "Pontiac",
+      "model": "Grand Prix",
+      "vin": "1G2WP12KXXF278572",
+      "color": "Red",
+      "miles": 147369,
+      "date": "4/6/2016"
+    },
+    {
+      "year": 2005,
+      "make": "Porsche",
+      "model": "Cayenne",
+      "vin": "WP1AC29P05LA91797",
+      "color": "Black",
+      "miles": 95640,
+      "date": ""
+    },
+    {
+      "year": 2005,
+      "make": "Saab",
+      "model": "03-Sep",
+      "vin": "YS3FB49S551044263",
+      "color": "Black",
+      "miles": 145223,
+      "date": "7/12/2018"
+    },
+    {
+      "year": 2001,
+      "make": "Saab",
+      "model": "05-Sep",
+      "vin": "YS3EF48Z013043972",
+      "color": "Gray",
+      "miles": 141256,
+      "date": "7/16/2016"
+    },
+    {
+      "year": 2010,
+      "make": "Subaru",
+      "model": "Impreza",
+      "vin": "JF1GH7G62AG808066",
+      "color": "Titanium",
+      "miles": 115417,
+      "date": ""
+    },
+    {
+      "year": 2014,
+      "make": "Subaru",
+      "model": "Impreza",
+      "vin": "JF1GR7E63EG236995",
+      "color": "Charcoal",
+      "miles": 73524,
+      "date": ""
+    },
+    {
+      "year": 2004,
+      "make": "Toyota",
+      "model": "4Runner",
+      "vin": "JTEBT17RX40044809",
+      "color": "Black",
+      "miles": 114802,
+      "date": ""
+    },
+    {
+      "year": 2003,
+      "make": "Toyota",
+      "model": "Camry",
+      "vin": "4T1BF32K63U552179",
+      "color": "Tan",
+      "miles": 105646,
+      "date": "9/7/2018"
+    },
+    {
+      "year": 2003,
+      "make": "Toyota",
+      "model": "Camry",
+      "vin": "4T1BF32K13U041723",
+      "color": "Gold",
+      "miles": 68444,
+      "date": "3/6/2019"
+    },
+    {
+      "year": 2002,
+      "make": "Toyota",
+      "model": "Camry Solara",
+      "vin": "2T1FF28P32C555507",
+      "color": "Red",
+      "miles": 288411,
+      "date": "1/8/2017"
+    },
+    {
+      "year": 2001,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "vin": "5tenl42n81z743858",
+      "color": "Tan",
+      "miles": 164997,
+      "date": "6/12/2020"
+    },
+    {
+      "year": 2001,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "vin": "5TEWN72N41Z845187",
+      "color": "Green",
+      "miles": 60033,
+      "date": ""
+    },
+    {
+      "year": 2003,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "vin": "5TEWN72N93Z261578",
+      "color": "Green",
+      "miles": 138223,
+      "date": "12/21/2017"
+    },
+    {
+      "year": 2009,
+      "make": "Volkswagen",
+      "model": "GLI",
+      "vin": "3VWDA71K79M148631",
+      "color": "White",
+      "miles": 120166,
+      "date": "8/29/2019"
+    },
+    {
+      "year": 2007,
+      "make": "Volkswagen",
+      "model": "GTI",
+      "vin": "WVWGV71K77W185065",
+      "color": "Black",
+      "miles": 155021,
+      "date": "5/7/2016"
+    },
+    {
+      "year": 1999,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "vin": "3VWSC29M7XM064686",
+      "color": "Black",
+      "miles": 131499,
+      "date": "9/15/2011"
+    },
+    {
+      "year": 2005,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "vin": "3VWST71K25M637563",
+      "color": "Gray",
+      "miles": 132439,
+      "date": "5/30/2020"
+    },
+    {
+      "year": 2007,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "vin": "3VWGG71K27M051555",
+      "color": "White",
+      "miles": 67888,
+      "date": "7/27/2015"
+    },
+    {
+      "year": 2004,
+      "make": "Volkswagen",
+      "model": "New Beetle",
+      "vin": "3VWBK31C54M416669",
+      "color": "Black",
+      "miles": 85000,
+      "date": "4/17/2016"
+    },
+    {
+      "year": 2009,
+      "make": "Volkswagen",
+      "model": "New Beetle",
+      "vin": "3VWPG31CX9M507659",
+      "color": "Black",
+      "miles": 79551,
+      "date": ""
+    },
+    {
+      "year": 2002,
+      "make": "Volkswagen",
+      "model": "Passat",
+      "vin": "WVWPD63BX2P366979",
+      "color": "Green",
+      "miles": 150000,
+      "date": "4/28/2019"
+    },
+    {
+      "year": 2006,
+      "make": "Volkswagen",
+      "model": "Passat",
+      "vin": "WVWGK73C36P152474",
+      "color": "Gray",
+      "miles": 133077,
+      "date": "11/24/2019"
+    },
+    {
+      "year": 2009,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "vin": "WVGBV95N19W506509",
+      "color": "Red",
+      "miles": 133116,
+      "date": "9/2/2017"
+    },
+    {
+      "year": 2004,
+      "make": "Volkswagen",
+      "model": "Touareg",
+      "vin": "WVGHH77L04D045129",
+      "color": "Champagne",
+      "miles": 154210,
+      "date": "2/7/2018"
+    },
+    {
+      "year": 2001,
+      "make": "Volvo",
+      "model": "S40",
+      "vin": "YV1VS29561F764017",
+      "color": "Silver",
+      "miles": 124850,
+      "date": ""
+    },
+    {
+      "year": 2005,
+      "make": "Volvo",
+      "model": "S40",
+      "vin": "YV1MS390352104665",
+      "color": "Green",
+      "miles": 115066,
+      "date": "8/26/2016"
+    },
+    {
+      "year": 2004,
+      "make": "Volvo",
+      "model": "S60 R",
+      "vin": "YV1RH52Y842418133",
+      "color": "Silver",
+      "miles": 169265,
+      "date": "2/8/2019"
+    },
+    {
+      "year": 2001,
+      "make": "Volvo",
+      "model": "V40",
+      "vin": "YV1VW29571F632405",
+      "color": "Green",
+      "miles": 139852,
+      "date": "11/20/2015"
+    },
+    {
+      "year": 2004,
+      "make": "Volvo",
+      "model": "XC90",
+      "vin": "YV1CZ59H841107204",
+      "color": "Blue",
+      "miles": 131628,
+      "date": "8/23/2018"
+    },
+    {
+      "year": 2008,
+      "make": "Volvo",
+      "model": "XC90",
+      "vin": "YV4CZ982181464415",
+      "color": "Gray",
+      "miles": 131411,
+      "date": "5/31/2020"
+    }
+  ]
+  

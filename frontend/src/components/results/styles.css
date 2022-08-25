@@ -1,0 +1,37 @@
+/* body {
+    margin: 1rem;
+  }
+  
+
+ 
+   */
+   /* li {
+    box-shadow: 4px 4px 4px 4px rgb(207, 192, 192);
+    padding: 50px;
+    margin-top: 1rem;
+    display: block;
+  } */
+  body {
+    margin: 1rem;
+  }
+  button {
+    margin: 0.5rem;
+    padding: 0.5;
+  }
+  .option {
+    text-align: center;
+  }
+  .info {
+    padding: 0;
+    width: fit-content;
+    margin: auto;
+  }
+  .head {
+    width: fit-content;
+    margin: auto;
+    background-color: grey;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 2rem;
+  }
+  
